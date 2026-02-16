@@ -65,7 +65,7 @@ $ cat /etc/mission
 ![Kubernetes](https://img.shields.io/badge/K8s-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438)
 
-</div>
+<!--
 
 ---
 
@@ -79,7 +79,7 @@ $ cat /etc/mission
 
 </div>
 
----
+-->
 
 <div align="center">
 
