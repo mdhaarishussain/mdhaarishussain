@@ -5,7 +5,7 @@
 
 ```
 $ whoami
-→ haaris — co-founder · security engineer · researcher
+→ haaris — co-founder · AI engineer · undergrad researcher
 
 $ cat /etc/mission
 → scaling mental health for 400M Indian Gen Z
