@@ -29,7 +29,7 @@ $ cat /etc/focus
 
 ## What I've Built
 
-**Bondhu AI** — Founder. A proactive digital-twin companion for India's therapist gap: a multi-agent system that notices behavioral shifts from entertainment and social signals and checks in before you have to ask. *Pre-incubated by Startup ki Paathshala.*
+**[Bondhu AI](https://bondhu.tech)** — Founder. A proactive digital-twin companion for India's therapist gap: a multi-agent system that notices behavioral shifts from entertainment and social signals and checks in before you have to ask. *Pre-incubated by Startup ki Paathshala.*
 
 **[Chaos Kitten](https://github.com/mdhaarishussain/chaos-kitten)** — Agentic API red-teaming. 20+ attack vectors across OWASP A01 & CWE-200, SARIF reporting, built for the CNCF ecosystem.
 
