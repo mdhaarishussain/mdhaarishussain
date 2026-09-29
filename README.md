@@ -16,6 +16,8 @@ $ cat /etc/focus
 
 <img src="https://img.shields.io/badge/AWS-AI_ML_SCHOLAR-FF9900?style=for-the-badge&labelColor=0D1117&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/SAP-HACKFEST_TOP_10-0FAAFF?style=for-the-badge&labelColor=0D1117&logo=sap&logoColor=0FAAFF"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mdhaarishussain&style=flat-square&color=00FF41&label=views"/>
 
 </div>
 
